@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @chzcb
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-chzcb/chzcb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 2023-2-17
+  - 平时会不间断的发一些小例子上来，作为工作学习的阶段性总结
+- 以前
+  - 有些太久远的工程都删掉了，留着几个作为记录
